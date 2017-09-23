@@ -10,14 +10,17 @@ date_default_timezone_set('Europe/Berlin');
 
 
 
+echo(" 
+<br>
 Directory Listing Script - Version 2
-
+<br>
 ====================================
-
+<br>
 Script Author: Ash Young <ash@evoluted.net>. www.evoluted.net
-
+<br>
 Layout: Manny <manny@tenka.co.uk>. www.tenka.co.uk
-
+<br>
+");
 
 
 $startdir = '.';
