@@ -68,7 +68,7 @@ $indexfiles = array (
 
 			);
 
-			
+			 
 
 $filetypes = array (
 
