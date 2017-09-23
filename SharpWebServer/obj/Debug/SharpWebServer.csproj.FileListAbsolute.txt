@@ -1,0 +1,9 @@
+c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebServer\bin\Debug\SharpWebServer.exe.config
+c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebServer\bin\Debug\SharpWebServer.exe
+c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebServer\bin\Debug\SharpWebServer.pdb
+c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.csprojResolveAssemblyReference.cache
+c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.SharpWebServer.resources
+c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.Properties.Resources.resources
+c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.csproj.GenerateResource.Cache
+c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.exe
+c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.pdb

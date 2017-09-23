@@ -1,0 +1,12 @@
+DOWNLOAD PHP http://windows.php.net/download#php-7.1
+AND UNZIP IT INTO \bin\Debug\Configuration\plugin
+
+
+YOU CAN CHANGE PHP-FOLDER BY CHANGING 
+IN INI-FILE FOLLOWING LINE:
+:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:
+[PlugIn]
+PlugInFolder=Configuration\plugin
+PlugInExtensions=php;
+PlugInApplications=php->Configuration\plugin\php\php.exe|
+:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:
