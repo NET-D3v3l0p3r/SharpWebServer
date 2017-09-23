@@ -7,3 +7,12 @@ c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebSer
 c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.csproj.GenerateResource.Cache
 c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.exe
 c:\users\3r0rxx\documents\visual studio 2013\Projects\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.pdb
+C:\Users\3r0rXx\Documents\GitHub\SharpWebServer\SharpWebServer\bin\Debug\SharpWebServer.exe.config
+C:\Users\3r0rXx\Documents\GitHub\SharpWebServer\SharpWebServer\bin\Debug\SharpWebServer.exe
+C:\Users\3r0rXx\Documents\GitHub\SharpWebServer\SharpWebServer\bin\Debug\SharpWebServer.pdb
+C:\Users\3r0rXx\Documents\GitHub\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.csprojResolveAssemblyReference.cache
+C:\Users\3r0rXx\Documents\GitHub\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.SharpWebServer.resources
+C:\Users\3r0rXx\Documents\GitHub\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.Properties.Resources.resources
+C:\Users\3r0rXx\Documents\GitHub\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.csproj.GenerateResource.Cache
+C:\Users\3r0rXx\Documents\GitHub\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.exe
+C:\Users\3r0rXx\Documents\GitHub\SharpWebServer\SharpWebServer\obj\Debug\SharpWebServer.pdb

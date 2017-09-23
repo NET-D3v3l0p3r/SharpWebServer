@@ -2,6 +2,7 @@
 using SharpWebServer.Ini;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
@@ -28,6 +29,19 @@ namespace SharpWebServer
         static void Main()
         {
             GlobalShares.INIParser = new INIParserI(@"Configuration/server.ini", INIParserI.Mode.Read);
+
+            string[] _handler = GlobalShares.INIParser.GetValue("PlugIn", "PlugInApplications").Split('|');
+            for (int i = 0; i < _handler.Length - 1; i++)
+            {
+                string[] _alloc = _handler[i].Split(new string[] { "->" }, StringSplitOptions.None);
+                if (_alloc.Length > 1)
+                    if (!File.Exists(_alloc[1]))
+                    {
+                        MessageBox.Show("PLUGIN FOR EXTENSION '" + _alloc[0] + "' IS MISSING!" + Environment.NewLine + "PLEASE INSTALL IT NOW!", "ATTENTION!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+                    }
+
+            }
 
             var handle = GetConsoleWindow();
 
